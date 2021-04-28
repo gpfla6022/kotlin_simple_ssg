@@ -12,7 +12,7 @@ fun main(){
     }
 
 
-    println("SIMPLE SSG 시작 ==")
+    println("SIMPLE SSG 끝 ==")
 }
 
 fun readLineTrim() = readLine()!!.trim()
